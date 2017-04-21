@@ -1,0 +1,1 @@
+python test_all_case.py
